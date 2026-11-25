@@ -23,9 +23,20 @@ I'm building my foundations in software engineering with a focus on backend deve
 - Data Engineering
 - Applied AI
 
-## Project Roadmap
+## Projects
 
-- Business Management API
+### [Order Intake Check](https://github.com/mohammadabidizadeh/order-intake-check)
+
+A Python-based B2B order validation tool featuring
+CSV processing, SKU mapping, a REST API, automated
+testing, and cross-platform CI.
+
+- Version: v0.1.1 (Technical Preview)
+- License: Apache-2.0
+- 41 tests and 33 subtests passed
+
+## Upcoming Projects
+
 - Data Integration Platform
 - AI Document & Workflow Platform
 
